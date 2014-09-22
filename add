@@ -1,0 +1,2 @@
+#My personal useradd
+useradd -m -g users -G storage,wheel,power,audio,video -s /bin/bash midfingr
